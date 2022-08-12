@@ -1,4 +1,4 @@
-### DAO
+# DAO
 
 This is smart contracts that make DAO.
 
