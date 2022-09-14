@@ -33,7 +33,7 @@ yarn add --dev hardhat
 - Queue and execute - final result.
 
 
-### Useage:
+### Usage:
 
 Start local node:
 
